@@ -1,4 +1,4 @@
-# Intro
+# Ruby and Rails Learning Plan
 
 This learning plan is designed for someone new to both Ruby and Rails.
 
