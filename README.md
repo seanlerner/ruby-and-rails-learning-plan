@@ -8,7 +8,17 @@ I recommend you have a good fundamental understanding of Ruby before learning Ra
 
 This document was created by Sean Lerner.
 
-Some of these books are available for free on the web.  If you're in Toronto and have a library card, you can access the others for free through the [Toronto Public Library -> O'Reilly books](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEDB0099&R=EDB0099).
+Some of the recommended books are available for free on the web. Others can be purchased or accessed through [O'Reilly](https://www.oreilly.com).
+
+#### O'Reilly Books for free or on the cheap
+
+The O'Reilly monthly plan is a little expensive, but there are ways to access it for free or on the cheap:
+
+- Your local library may offer access to free. For example, the [Toronto Public Library system does](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEDB0099&R=EDB0099).
+
+- You can purchase an [ACM](https://acm.org/) annual membership which includes access to O'Reilly books.
+
+- Your employer may already have a team membership or provide you a learning budget.
 
 ## Learn Ruby The Hard Way
 
@@ -47,6 +57,7 @@ The chapters are small and easily digestible.
 ## Michael Hartl Rails Tutorial
 
 About half way through **Eloquent Ruby**, start doing the Michael Hart Rails Tutorial.<br>
+The first 3 chapters are free online and it's also available through [O'Reilly books](https://learning.oreilly.com/library/view/ruby-on-rails/9780136702726):<br>
 [https://www.railstutorial.org/](https://www.railstutorial.org/)
 
 ### Continue in parallel:
