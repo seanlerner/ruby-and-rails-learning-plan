@@ -16,8 +16,6 @@ The O'Reilly monthly plan is a little expensive, but there are ways to access it
 
 - Your local library may offer access to free. For example, the [Toronto Public Library system does](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDMEDB0099&R=EDB0099).
 
-- You can purchase an [ACM](https://acm.org/) annual membership which includes access to O'Reilly books.
-
 - Your employer may already have a team membership or provide you a learning budget.
 
 ## Learn Ruby The Hard Way
